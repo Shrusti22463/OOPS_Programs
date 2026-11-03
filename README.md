@@ -5,9 +5,9 @@ Student Details:
 
 | Field  | Details        |
 |--------|----------------|
-| Name   | Pavitra V Indi |
-| Roll No| 543            |
-| Div    | E              |
-| USN    | 01FE23BEC277   |
+| Name   | Shrusti M I Jamakhandi |
+| Roll No| 653            |
+| Div    | F              |
+| USN    | 01FE23BEC353  |
 |Semester|7th             |
 
